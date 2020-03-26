@@ -9,6 +9,7 @@ public class task {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Write something");
 		String p=sc.nextLine();
+		System.out.println("hiii");
 	}
 
 }
